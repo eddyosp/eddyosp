@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eddyosp
-- 👀 I’m interested in Space, Elctronics and Programming.
+- 👀 I’m interested in Space, Electronics and Programming.
 - 🌱 I’m currently learning Embedded systems.
 - 💞️ I’m looking to collaborate on Aerospace projects.
 - 📫 How to reach me: ello.co/eddyosp, facebook.com/eddyosp, linkedin.com/in/eddyosp/
